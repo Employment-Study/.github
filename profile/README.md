@@ -16,14 +16,8 @@
 
 ## 📌  기술 스택
 
-<style>
-    div {
-        display:inline-block;
-    }
-</style>
 
-
-<div>
+<div style="display: inline-block">
 <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=OpenJDK&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
