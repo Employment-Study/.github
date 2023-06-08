@@ -107,7 +107,7 @@
 |  10  |   |        |  |
 
 ---
-
+![image](https://github.com/Employment-Study/Algorithm_Study/assets/44068819/7a045fe3-f9ae-4497-8be8-0488c6130184)
 
 [AhnjiHye-coder]:https://github.com/AhnjiHye-coder
 [e1mji]:https://github.com/e1mji
