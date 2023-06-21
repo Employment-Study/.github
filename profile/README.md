@@ -86,7 +86,7 @@
 |  05  | 정수용 |  [바로가기][RightAccept]      |
 |  06  | 박소은 |  [바로가기][Soeun21]          |
 |  07  | 이선로 |  [바로가기][Sunro1994]        |
-|  08  | 조민병 |  [바로가기][]      |
+|  08  | 조민병 |  [바로가기][whalsqud6553]      |
 |  09  | 임상욱 |  [바로가기][]      |
 |  10  |      |        |
 
@@ -116,5 +116,9 @@
 [RightAccept]:https://github.com/RightAccept
 [Soeun21]:https://github.com/Soeun21
 [Sunro1994]:https://github.com/Sunro1994
+[whalsqud6553]:https://github.com/whalsqud6553/
+
 [Team_StudyJava]:https://github.com/Employment-Study/Team_StudyJava
 [Algorithm_Study]:https://github.com/Employment-Study/Algorithm_Study
+
+
