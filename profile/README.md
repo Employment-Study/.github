@@ -19,7 +19,7 @@
 
 <div style="display: inline-block">
   
-<a href="https://docs.oracle.com/javase/8/docs/api/"><img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=OpenJDK&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=OpenJDK&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
