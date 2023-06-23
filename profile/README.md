@@ -10,7 +10,7 @@
 
 ## 💬 사용중인 소통 앱
 - ### 카카오톡
-- ### 디스코드 : [Study-Java](https://discord.gg/YTtcC3cG)
+- ### 디스코드 : [Study-Java](https://discord.gg/aEyhS9Vv)
 
 <br/>
 
