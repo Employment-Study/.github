@@ -100,7 +100,7 @@
 |  02  | Algorithm_Study |  따로 공부하거나 주중에 공통과제로 풀게 되는 알고리즘 문제들을 정리한 레포지토리      | [바로가기][Algorithm_Study] |
 |  03  | SQL_Study |   수업 중 배운 SQL 구문을 공부하고 8월에 있을 SQLD 자격증 시험에 대비하기 위한 레포지토리      | [바로가기][SQL_Study] |
 |  04  | HTML-CSS-Javascript_STUDY | HTML,CSS,Javascript를 공부하여 이후에 있을 JSP, Spring 수업에 대비하기 위한 레포지토리       | [바로가기][HTML-CSS-Javascript_STUDY] |
-|  05  |  |        |  |
+|  05  | JSP_Study |  JSP를 수업내용을 정리한 레포지토리 입니다.   | [바로가기][JSP_Study] |
 |  06  |  |        |  |
 |  07  |  |        |  |
 |  08  |  |        |  |
@@ -123,3 +123,4 @@
 [Algorithm_Study]:https://github.com/Employment-Study/Algorithm_Study
 [SQL_Study]:https://github.com/Employment-Study/SQL_Study
 [HTML-CSS-Javascript_STUDY]:https://github.com/Employment-Study/HTML-CSS-Javascript_STUDY
+[JSP_Study]:https://github.com/Employment-Study/JSP_Study
